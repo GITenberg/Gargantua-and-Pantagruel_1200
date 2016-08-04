@@ -1,0 +1,119 @@
+_repo: Gargantua-and-Pantagruel_1200
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Doré, Gustave
+    aliases:
+    - Dore, Gustave
+    - Doré, Louis Auguste Gustave
+    - Dorè, Gustave
+    - Doré, Louis Christophe Paul Gustave
+    birthdate: 1832
+    deathdate: 1883
+    gutenberg_agent_id: '1896'
+    url: http://www.gutenberg.org/2009/agents/1896
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Doré
+  translators:
+  - agent_name: Urquhart, Thomas, Sir
+    aliases:
+    - Urwhart, Thomas, Sir
+    - Urchard, Thomas, Sir
+    birthdate: 1611
+    deathdate: &id001 1660
+    gutenberg_agent_id: '4932'
+    url: http://www.gutenberg.org/2009/agents/4932
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Urquhart
+  - agent_name: Motteux, Peter Anthony
+    aliases:
+    - Motteux, P. A. (Peter Anthony)
+    - Motteux, Pierre Antoine
+    - Lemotteux, Pierre Antoine
+    birthdate: *id001
+    deathdate: 1718
+    gutenberg_agent_id: '4933'
+    url: http://www.gutenberg.org/2009/agents/4933
+covers:
+- cover_type: archival
+  image_path: 1200/1200-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Rabelais, François
+    aliases:
+    - Rabelais, Francois
+    - Alcofrybas, Maistre
+    - Rabelais, Francis
+    - Nasier, Alcofribas
+    gutenberg_agent_id: '551'
+    url: http://www.gutenberg.org/2009/agents/551
+    wikipedia: http://en.wikipedia.org/wiki/Fran%C3%A7ois_Rabelais
+description: "The Life of Gargantua and of Pantagruel (French: La vie de Gargantua\
+  \ et de Pantagruel) is a pentalogy of novels written in the 16th century by François\
+  \ Rabelais, which tells of the adventures of two giants, Gargantua (/ɡɑːrˈɡæntʃuːə/;\
+  \ French: [ɡaʁ.ɡɑ̃.ty.a]) and his son Pantagruel (/pænˈtæɡruːˌɛl, -əl, ˌpæntəˈɡruːəl/;\
+  \ French: [pɑ̃.ta.ɡʁy.ɛl]). The text is written in an amusing, extravagant, and\
+  \ satirical vein, and features much crudity, scatological humor, and violence (lists\
+  \ of explicit or vulgar insults fill several chapters).\nThe censors of the Collège\
+  \ de la Sorbonne stigmatized it as obscene, and in a social climate of increasing\
+  \ religious oppression in a lead up to the French Wars of Religion, it was treated\
+  \ with suspicion, and contemporaries avoided mentioning it. According to Rabelais,\
+  \ the philosophy of his giant Pantagruel, \"Pantagruelism\", is rooted in \"a certain\
+  \ gaiety of mind pickled in the scorn of fortuitous things\" (French: une certaine\
+  \ gaîté d'esprit confite dans le mépris des choses fortuites).\nRabelais had studied\
+  \ Ancient Greek and he applied it in inventing hundreds of new words in the text,\
+  \ some of which became part of the French language. Wordplay and risqué humor abound\
+  \ in his writing.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Banned Books from Anne Haight's list
+- Best Books Ever Listings
+gutenberg_issued: '2004-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1200'
+  wikidata: Q822290
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Gargantua (Legendary character) -- Fiction'
+- !lcsh 'Giants -- Fiction'
+- !lcsh 'Fantasy fiction, French -- Translations into English'
+- GITenberg
+title: Gargantua and Pantagruel
+url: http://www.gutenberg.org/ebooks/1200
+wikipedia:
+- https://fa.wikipedia.org/wiki/%DA%AF%D8%A7%D8%B1%DA%AF%D8%A7%D9%86%D8%AA%D9%88%D8%A7_%D9%88_%D9%BE%D8%A7%D9%86%D8%AA%D8%A7%DA%AF%D8%B1%D9%88%D8%A6%D9%84
+- https://ru.wikisource.org/wiki/%D0%93%D0%B0%D1%80%D0%B3%D0%B0%D0%BD%D1%82%D1%8E%D0%B0_%D0%B8_%D0%9F%D0%B0%D0%BD%D1%82%D0%B0%D0%B3%D1%80%D1%8E%D1%8D%D0%BB%D1%8C_(%D0%A0%D0%B0%D0%B1%D0%BB%D0%B5/%D0%AD%D0%BD%D0%B3%D0%B5%D0%BB%D1%8C%D0%B3%D0%B0%D1%80%D0%B4%D1%82)
+- https://commons.wikimedia.org/wiki/Category:Gargantua
+- https://uk.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%B3%D0%B0%D0%BD%D1%82%D1%8E%D0%B0_%D1%96_%D0%9F%D0%B0%D0%BD%D1%82%D0%B0%D0%B3%D1%80%D1%8E%D0%B5%D0%BB%D1%8C
+- https://az.wikipedia.org/wiki/Qarqant%C3%BCa_v%C9%99_Pantaqr%C3%BCel
+- https://bs.wikiquote.org/wiki/Gargantua_i_Pantagruel
+- https://pl.wikiquote.org/wiki/Gargantua_i_Pantagruel
+- https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%AB%E3%82%AC%E3%83%B3%E3%83%81%E3%83%A5%E3%83%AF%E3%81%A8%E3%83%91%E3%83%B3%E3%82%BF%E3%82%B0%E3%83%AA%E3%83%A5%E3%82%A8%E3%83%AB
+- https://pt.wikipedia.org/wiki/Garg%C3%A2ntua_e_Pantagruel
+- https://sr.wikipedia.org/wiki/Gargantua_i_Pantagruel
+- https://es.wikipedia.org/wiki/Gargant%C3%BAa_y_Pantagruel
+- https://en.wikipedia.org/wiki/Gargantua_and_Pantagruel
+- https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%B3%D0%B0%D0%BD%D1%82%D1%8E%D0%B0_%D0%B8_%D0%9F%D0%B0%D0%BD%D1%82%D0%B0%D0%B3%D1%80%D1%8E%D1%8D%D0%BB%D1%8C
+- https://ro.wikipedia.org/wiki/Gargantua_%C8%99i_Pantagruel
+- https://ko.wikipedia.org/wiki/%EA%B0%80%EB%A5%B4%EA%B0%95%ED%8A%80%EC%95%84%EC%99%80_%ED%8C%A1%ED%83%80%EA%B7%B8%EB%A4%BC%EC%97%98
+- https://fr.wikipedia.org/wiki/Gargantua
+- https://zh.wikipedia.org/wiki/%E5%B7%A8%E4%BA%BA%E4%BC%A0
+- https://la.wikipedia.org/wiki/Gargantua
+- https://pl.wikipedia.org/wiki/Gargantua_i_Pantagruel
+- https://hu.wikipedia.org/wiki/Gargantua_%C3%A9s_Pantagruel
+- https://sv.wikipedia.org/wiki/Den_store_Gargantuas_f%C3%B6rskr%C3%A4ckliga_leverne
+- https://be.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%B3%D0%B0%D0%BD%D1%86%D1%8E%D0%B0_%D1%96_%D0%9F%D0%B0%D0%BD%D1%82%D0%B0%D0%B3%D1%80%D1%83%D1%8D%D0%BB%D1%8C
+- https://ar.wikipedia.org/wiki/%D8%BA%D8%A7%D8%B1%D8%BA%D8%A7%D9%86%D8%AA%D9%88%D8%A7_%D9%88%D8%A8%D8%A7%D9%86%D8%AA%D8%A7%D8%BA%D8%B1%D9%88%D9%8A%D9%84
+- https://nl.wikipedia.org/wiki/Gargantua_en_Pantagruel
+- https://cs.wikipedia.org/wiki/Gargantua_a_Pantagruel
+- https://de.wikipedia.org/wiki/Gargantua_und_Pantagruel
+- https://eu.wikipedia.org/wiki/Gargantua_eta_Pantagruel
+- https://bg.wikipedia.org/wiki/%D0%93%D0%B0%D1%80%D0%B3%D0%B0%D0%BD%D1%82%D1%8E%D0%B0_%D0%B8_%D0%9F%D0%B0%D0%BD%D1%82%D0%B0%D0%B3%D1%80%D1%8E%D0%B5%D0%BB
+- https://it.wikipedia.org/wiki/Gargantua_e_Pantagruel
+- https://no.wikipedia.org/wiki/Gargantua_og_Pantagruel
+- https://tr.wikipedia.org/wiki/Gargantua_ve_Pantagruel
+- https://he.wikipedia.org/wiki/%D7%92%D7%A8%D7%92%D7%A0%D7%98%D7%95%D7%90%D7%94_%D7%95%D7%A4%D7%A0%D7%98%D7%92%D7%A8%D7%95%D7%90%D7%9C
