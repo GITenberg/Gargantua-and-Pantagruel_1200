@@ -1,5 +1,5 @@
 _repo: Gargantua-and-Pantagruel_1200
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Doré, Gustave
@@ -19,7 +19,7 @@ contributor:
     - Urwhart, Thomas, Sir
     - Urchard, Thomas, Sir
     birthdate: 1611
-    deathdate: &id001 1660
+    deathdate: 1660
     gutenberg_agent_id: '4932'
     url: http://www.gutenberg.org/2009/agents/4932
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Urquhart
@@ -28,7 +28,7 @@ contributor:
     - Motteux, P. A. (Peter Anthony)
     - Motteux, Pierre Antoine
     - Lemotteux, Pierre Antoine
-    birthdate: *id001
+    birthdate: 1660
     deathdate: 1718
     gutenberg_agent_id: '4933'
     url: http://www.gutenberg.org/2009/agents/4933
