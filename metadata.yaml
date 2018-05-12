@@ -1,5 +1,5 @@
 _repo: Gargantua-and-Pantagruel_1200
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Doré, Gustave
@@ -34,9 +34,7 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/4933
 covers:
 - cover_type: archival
-  image_path: 1200/1200-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: old/orig1200-h/images/cover.jpg
 creator:
   author:
     agent_name: Rabelais, François
@@ -64,6 +62,8 @@ description: "The Life of Gargantua and of Pantagruel (French: La vie de Gargant
   \ Ancient Greek and he applied it in inventing hundreds of new words in the text,\
   \ some of which became part of the French language. Wordplay and risqué humor abound\
   \ in his writing.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1200#Gargantua-and-Pantagruel
 gutenberg_bookshelf:
 - Banned Books from Anne Haight's list
 - Best Books Ever Listings
